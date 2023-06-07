@@ -1,0 +1,3 @@
+ Utilice la sentencia COMMIT para confirmar todos los cambios de E/S de archivo realizados durante una transacción.
+La fetch API nos permite acceder a recursos de un servidor de manera asíncrona (peticiones Ajax). Este tipo de peticiones nos permiten realizar solicitudes HTTP sin necesidad de recargar toda la página.
+El comando git pull se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido. 
